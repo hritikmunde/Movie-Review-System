@@ -1,0 +1,43 @@
+body{
+	background-color: #f3f3f3;
+	font-family: arial;
+}
+
+.movie-container {
+	width: 900px;
+	background-color: #fff;
+	padding: 30px;
+
+}
+
+.movie-box {
+	padding-bottom: 30px;
+	width: 100px;
+}
+
+input {
+	padding: 0px 20px;
+	width: 300px;
+	height: 40px;
+	font-size: 22px;
+}
+
+button {
+	width: 100px;
+	height: 44px;
+	font-size: 22px;
+}
+
+/*.pos {
+	width: 100px;
+   	height: 100px;
+   	border: solid;
+   	margin-left: 100px;
+}
+
+img{
+    max-width:64px;
+    max-height:64px;
+    width:auto;
+    height:auto;
+}*/

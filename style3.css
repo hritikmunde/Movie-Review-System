@@ -1,0 +1,126 @@
+.pos {
+	position: absolute;
+	top: 15em;
+	left: 2em;
+}
+
+.movie-box {
+	display: block;
+	position: absolute;
+	left: 18em;
+	top: 14.5em;
+}
+
+.headline {
+	font-family:'Amaranth', sans-serif;
+	font-weight: 400;
+    font-size: 2.46153846rem;
+}
+
+.num {
+	position: absolute;
+	font-family: 'Nunito', sans-serif;
+}
+
+div, h1, h4, p, small, span, img, body, html, section, button {
+	margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    /*font-family: inherit;*/
+    vertical-align: baseline;
+}
+section, div {
+    display: block;
+}
+
+.dur {
+	position: relative;
+	left: 47px;
+	font-family: 'Nunito', sans-serif;
+}
+.review.-hero {
+    overflow: hidden;
+}
+.body-text.-prose.-hero {
+    font-size: 1.23076923rem;
+    line-height: 1.5625;
+    margin-bottom: .625em;
+}
+.body-text.-prose {
+    font-family: TiemposTextWeb-Regular,Georgia,serif;
+}
+
+h4.tagline {
+    margin-top: -2px;
+}
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.tagline {
+    font-size: 1rem;
+    font-family: Graphik-Regular-Web,sans-serif;
+    font-weight: 400;
+    line-height: 1.53846154;
+    text-transform: uppercase;
+    letter-spacing: .075em;
+    margin: 20px 0 10px;
+}
+
+.lang {
+	position: absolute;
+	left: 130px;
+	font-family: 'Nunito', sans-serif;
+}
+
+
+p {
+    line-height: inherit;
+    margin-bottom: .625em;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.sum {
+	display: block;
+	position: relative;
+	top: 30px;
+	left: 0;
+	margin-right: 39em;
+}
+section {
+	width: 40%;
+	position: relative;
+	left: 18em;
+	top: 18em;
+}
+
+section.summer {
+	font-family: 'Nunito', sans-serif; 
+}
+
+button {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}
+section {
+	font-family: 'Jost', sans-serif; 
+}
